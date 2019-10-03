@@ -1,0 +1,128 @@
+[
+  {
+    "id": "6427486d-7ca9-4ff6-8665-8f71a985b38a",
+    "data": [
+      {
+        "text": "Eu vou de ",
+        "userDefined": false
+      },
+      {
+        "text": "preto",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8952e310-f56a-459d-b024-6007cdb53685",
+    "data": [
+      {
+        "text": "A minha é ",
+        "userDefined": false
+      },
+      {
+        "text": "amarela",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ed0c6f8-ba5e-4a1e-917d-7c5087c749a1",
+    "data": [
+      {
+        "text": "Eu curto ",
+        "userDefined": false
+      },
+      {
+        "text": "verde",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b2a7de2-2b81-4713-9334-f88ccf790cb8",
+    "data": [
+      {
+        "text": "Eu gosto da ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelha",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b894af4-f5aa-4dbb-9499-dfbd44c42b9f",
+    "data": [
+      {
+        "text": "Eu prefiro ",
+        "userDefined": false
+      },
+      {
+        "text": "rosa",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fba132c9-9976-4357-8b61-a1f083702faf",
+    "data": [
+      {
+        "text": "Eu adoro ",
+        "userDefined": false
+      },
+      {
+        "text": "azul",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c225e824-85c9-409e-822b-e9daaa7e7f16",
+    "data": [
+      {
+        "text": "Eu amo ",
+        "userDefined": false
+      },
+      {
+        "text": "roxo",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
